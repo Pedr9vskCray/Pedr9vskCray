@@ -18,9 +18,9 @@
    
  - Sou um mestre de RPG no tempo livre 📓
  
- - 🎵 Sempre estou ouvindo música, mantendo a trilha sonora da vida
+ - 🎵 Estou quase sempre ouvindo música
  
- - Sou apaixonado por tecnlogia 💻
+ - Sou apaixonado por tecnologia 💻
  
  - ⚔️ We've made a choice. Go fight against your fate!
 
