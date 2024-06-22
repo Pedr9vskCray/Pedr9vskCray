@@ -1,9 +1,5 @@
 ### Olá! Seja bem-vindo, me chamo Pedro! <img src="https://static.wikia.nocookie.net/oneshot/images/c/cf/Niko_bulb.gif/revision/latest?cb=20170403131247" width="40px">
 
-<div id="header">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a997007-971c-447c-a2eb-0931b5d2529b/dhm1uqm-60b15682-2f4e-4d37-8c4f-507a7a15b8cc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhOTk3MDA3LTk3MWMtNDQ3Yy1hMmViLTA5MzFiNWQyNTI5YlwvZGhtMXVxbS02MGIxNTY4Mi0yZjRlLTRkMzctOGM0Zi01MDdhN2ExNWI4Y2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kc2kevlDJape-uYAAHzYbXjZX52acPRcd3J2gv59dtg" width="541"/>
-</div>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrobigwolf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrox2102@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](pedr9vskcray)
@@ -14,13 +10,15 @@
   <h3>Atualmente tenho 19 anos, trabalho como freelancer na área de Análise de Dados e estou cursando Ciência da Computação na UFF.</h3>
 </p>
 
- - 🎮 Sou apaixonado por jogos
+ - :video_game: Sou apaixonado por jogos
+  
+ - :robot: Adoro trabalhar com banco de dados, automatização de processos e criação de bots
    
- - Sou um mestre de RPG no tempo livre 📓
+ - Sou um mestre de RPG no tempo livre :game_die:
  
- - Sou apaixonado por tecnologia 💻
+ - Amo a tecnologia e tudo que ela nos possibilita :desktop_computer:	
  
- - <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px"> You only have one shot
+ - Gosto de pensar e implementar soluções para problemas <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
 
 ## Tecnologias e Ferramentas: 
 
@@ -39,10 +37,14 @@
 
 ##
 
-<p align="center">
-  <h3>"There are no regrets in life, just lessons."
-- Jennifer Aniston.</h3>
-  <img src="https://media.tenor.com/8QTiEfTe1RoAAAAi/niko-oneshot.gif" width="55px">
+<p>
+  <h3>
+  "There are no regrets in life, just lessons."
+- Jennifer Aniston.
+  </h3>
+  <p align="right">
+    <img src="https://media.tenor.com/8QTiEfTe1RoAAAAi/niko-oneshot.gif" width="55px">
+  </p>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr9vskCray&show_icons=true&theme=ambient_gradient)
