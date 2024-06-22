@@ -11,14 +11,12 @@
 [![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](Pedr9vskCray#8089)
 
 <p align="center">
-  <h3>Atualmente tenho 19 anos e estou cursando Ciência da Computação na UFF.</h3>
+  <h3>Atualmente tenho 19 anos, trabalho como freelancer na área de Análise de Dados e estou cursando Ciência da Computação na UFF.</h3>
 </p>
 
  - 🎮 Sou apaixonado por jogos
    
  - Sou um mestre de RPG no tempo livre 📓
- 
- - 🎵 Estou quase sempre com música nos ouvidos
  
  - Sou apaixonado por tecnologia 💻
  
