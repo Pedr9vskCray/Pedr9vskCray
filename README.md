@@ -17,7 +17,7 @@
  
  - Problem solving nerd <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
 
-## Tecnologias e Ferramentas: 
+## Tools and Technologies: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -46,6 +46,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr9vskCray&show_icons=true&theme=ambient_gradient)
 
-### If you also like games and want to rock it sometime, you can also find me here
+### If you also like games and want to rock it some time, you can also find me here:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](pedr9vskcray)
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
