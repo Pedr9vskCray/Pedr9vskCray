@@ -7,15 +7,15 @@
   <h3>I'm a 19 years old Data Scientist and Freelancer.</h3>
 </p>
 
- - :video_game: Sou apaixonado por jogos
+ - :video_game: Gaming is my passion
   
- - :robot: Adoro trabalhar com banco de dados, automatização de processos e criação de bots
+ - :robot: I love working with databases, automating processes and creating bots
    
- - Sou um mestre de RPG no tempo livre :game_die:
+ - :crossed_swords: I'm a dungeon master in my free time :game_die:
  
- - Amo a tecnologia e tudo que ela nos possibilita :desktop_computer:	
+ - Technology lover :desktop_computer:	
  
- - Gosto de pensar e implementar soluções para problemas <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
+ - Problem solving nerd <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
 
 ## Tecnologias e Ferramentas: 
 
