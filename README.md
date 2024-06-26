@@ -48,4 +48,6 @@
 
 ### If you also like games and want to game in some time in the future, you can also find me here:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](pedr9vskcray)
+<a href="https://steamcommunity.com/id/Pedr9vskCray/">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
+</a>
