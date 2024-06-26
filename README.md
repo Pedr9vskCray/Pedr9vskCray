@@ -7,7 +7,7 @@
   <h3>I'm a 19 years old Data Scientist, Developer and Freelancer.</h3>
 </p>
 
- - :video_game: Gaming is my passion
+ - :video_game: Gaming and Game Dev Lover
   
  - :robot: I love working with databases, automating processes and creating bots
    
