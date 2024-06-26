@@ -46,6 +46,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr9vskCray&show_icons=true&theme=ambient_gradient)
 
-### If you also like games and want to rock it some time, you can also find me here:
+### If you also like games and want to game in some time in the future, you can also find me here:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](pedr9vskcray)
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
