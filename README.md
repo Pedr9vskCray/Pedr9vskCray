@@ -52,5 +52,3 @@
 <a href="https://steamcommunity.com/id/Pedr9vskCray/">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
 </a>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pedro-josé-dos-prazeres-lobão-220964322" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/pedro-jos%C3%A9-dos-prazeres-lob%C3%A3o-220964322?trk=profile-badge">Linked-in</a></div>
