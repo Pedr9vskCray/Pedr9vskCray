@@ -1,10 +1,14 @@
-### Hey! Good to see you, i'm pedro. <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
+### Hey! Good to see you, i'm Pedro.
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
+</picture>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrobigwolf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrox2102@gmail.com)
 
 <p align="center">
-  <h3>I'm a 19 years old Data Scientist, Developer and Freelancer.</h3>
+  <h3>I'm a 19 years old Data Scientist and Developer.</h3>
 </p>
 
  - :video_game: Gaming and Game Dev Lover
@@ -48,7 +52,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr9vskCray&show_icons=true&theme=ambient_gradient)
 
 ### If you also like games and want to play sometime in the future, you can also find me here:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](pedr9vskcray)
 <a href="https://steamcommunity.com/id/Pedr9vskCray/">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
 </a>
