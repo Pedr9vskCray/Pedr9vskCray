@@ -40,8 +40,8 @@
 
 <p>
   <h3>
-  "There are no regrets in life, just lessons."
-- Jennifer Aniston.
+  "There’s no feeling more intense than starting over."
+- Bennett Foddy.
   </h3>
   <p align="right">
     <img src="https://media.tenor.com/8QTiEfTe1RoAAAAi/niko-oneshot.gif" width="55px">
