@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrox2102@gmail.com)
 
 <p align="center">
-  <h3>I'm a 20 years old Data Scientist and Developer.</h3>
+  <h3>I'm a 20 years old Data Analyst and Developer.</h3>
 </p>
 
  - :video_game: Gaming and Game Dev Lover
