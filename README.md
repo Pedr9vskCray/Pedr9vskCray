@@ -57,9 +57,6 @@
   </p>
 </p>
               
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr9vskCray&show_icons=true&theme=ambient_gradient)
-
 ### If you like games, you can also find me here:
 <a href="https://steamcommunity.com/id/Pedr9vskCray/">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Pedr9vskCray" width="102">
