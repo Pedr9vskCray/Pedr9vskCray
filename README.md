@@ -19,7 +19,7 @@
    
  - :crossed_swords: I love TTRPGs and i'm a DM on my free time 📚
  
- - I love solving problems and difficult puzzles <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
+ - ❓ I love solving problems and difficult puzzles <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
 
 ## Tools and Technologies: 
 
