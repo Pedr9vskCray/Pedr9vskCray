@@ -11,15 +11,15 @@
   <h3>I'm a 21 years old Fullstack Developer</h3>
 </p>
 
- - :video_game: Gaming and Game Dev Lover
+ - :video_game: Gaming and Game Dev Lover 🎲
   
- - :robot: I love working with databases, automating processes and creating bots
+ - :robot: I love working with databases, APIs, automating processes and creating bots :desktop_computer:
+
+ (I know my way around the front-end, but my ❤️ belongs to the back-end)
    
- - :crossed_swords: I'm a dungeon master in my free time :game_die:
+ - :crossed_swords: I love TTRPGs and i'm a DM on my free time 📚
  
- - Technology lover :desktop_computer:	
- 
- - Problem solving nerd <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
+ - I love solving problems and difficult puzzles <img src="https://static.wikia.nocookie.net/oneshot/images/e/e6/Enlarged_sunicon.png/revision/latest?cb=20161215051555" width="18px">
 
 ## Tools and Technologies: 
 
